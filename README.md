@@ -1,1 +1,1 @@
-# Data_Analysis_final_project_Skillfactory
+# Финальный проект по курсу "Специализация Аналитик данных"
